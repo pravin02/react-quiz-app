@@ -25,7 +25,7 @@ Your app is ready to be deployed!
 
 ### Screens
 1) Quiz
-![alt text](https://github.com/pravin02/react-quiz-app/blob/master/screenshots/Quiz.PNG)
+![alt text](https://github.com/pravin02/react-quiz-app/blob/master/screenshots/QuizScreen.PNG)
 
 2) Result
 ![alt text](https://github.com/pravin02/react-quiz-app/blob/master/screenshots/Result.PNG)

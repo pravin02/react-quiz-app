@@ -22,3 +22,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+### Screens
+1) Quiz
+![alt text](https://github.com/pravin02/react-quiz-app/blob/master/screenshots/Quiz.PNG)
+
+2) Result
+![alt text](https://github.com/pravin02/react-quiz-app/blob/master/screenshots/Result.PNG)
